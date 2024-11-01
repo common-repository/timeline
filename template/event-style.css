@@ -1,0 +1,19 @@
+tdih-detail.project-wrapper{width:90%;margin:0 auto;margin-bottom:60px;}
+.project-wrapper:after{content:".";display:block;clear:both;visibility:hidden;line-height:0;height:0;}
+#project-title-header{font-size:24px;font-weight:bold;margin:40px 0px;}
+#project-details{font-size:16px;width:100%;}
+#project-details tr:nth-child(even){background:#eee}
+#project-details td {padding:10px 20px;}
+#project-details td.term{width:100px;}
+#project-details td ul{margin:0px;}
+#project-description{}
+#project-details-header{font-size:24px;font-weight:bold;margin:40px 0px;}
+#project-attachments-wrapper{}
+#project-attachments-header{font-size:24px;font-weight:bold;margin:40px 0px;}
+#project-attachments{}
+#project-attachments li{float:left;margin-left:40px;}
+#project-uploads-wrapper{width:300px;margin:0 auto;}
+#project-uploads-title{text-align:center;}
+#project-uploads-desc{text-align:center;}
+#project_upload_frame{height:40px;width:300px;}
+#project-not-allowed{}
